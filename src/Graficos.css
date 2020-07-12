@@ -1,0 +1,16 @@
+h1 {  
+    font-family: "Courier New" bold;
+    font-size: 1.7em;
+    line-height: 2vw;
+    text-align: center;
+    color: rgba(1, 5, 27, 0.972);
+    padding: 50px 200px 20px 200px;
+  }
+
+  .graficos {
+    height: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+

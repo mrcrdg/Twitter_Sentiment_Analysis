@@ -1,0 +1,47 @@
+nav a {
+  text-decoration: none !important;
+  font-size: 1.3em;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@font-face {
+  font-family: myHPFont;
+  src: url("/fonts/OpenSans-BoldItalic.ttf");
+}
+
+.allpage {
+  height: 100%;
+}
+
+.menu {
+  width: 100%;
+  height: 3vw;
+  line-height: 3vw;
+  background: rgb(54, 59, 73);
+  font-family: "Courier New";
+  font-weight: bold;
+  text-align: center;
+}
+
+.menu li {
+  display: inline-block;
+  padding-left: 70px;
+  padding-right: 70px;  
+}
+
+.rodape {
+  width: 100%;
+  height: 4vw;
+  background: rgb(54, 59, 73);
+  line-height: 4vw;
+  text-align: center;
+}
+.rodape p {
+  color: white;
+}
+
+p {
+  margin: 0;
+}
